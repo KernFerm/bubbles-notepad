@@ -64,7 +64,7 @@ If you encounter any issues, feel free to ping **Bubbles** on Discord! 🚀
 
 ---
 ### Bubbles-Notepad EXE
-Bubbles-Notepad Exe](https://github.com/KernFerm/bubbles-notepad/tree/main/Bubbles-Notepad)
+[Bubbles-Notepad Exe](https://github.com/KernFerm/bubbles-notepad/tree/main/Bubbles-Notepad)
 
 ## 🔧 Installation & Running
 
