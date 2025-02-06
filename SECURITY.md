@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.0.007   | :white_check_mark: |
+| 0.1.145   | :white_check_mark: |
 
 
 # Executable (.exe) Version
