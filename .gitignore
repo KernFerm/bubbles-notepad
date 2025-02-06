@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Build and distribution directories
+Bubbles_Notepad/dist/
+Bubbles_Notepad/dist/pyarmor_runtime_000000/
+
+# Compiled files and executables
+Bubbles-Notepad.exe
+Bubbles-Notepad.py
+pyarmor_runtime.pyd
+pyarmor_runtime_000000/
+__init__.py
+
+# Batch scripts
+launcher.bat
+
+# Dependency files
+requirements.txt
+
+# Documentation and notes
+LICENSE.md
+readme.md
+notes.txt
