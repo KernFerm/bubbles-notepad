@@ -2,6 +2,7 @@
 
 This version of the game has been bundled into an executable (`.exe`) file for easier distribution and use on Windows.
 
+`SHA256 B11188AE757C6AD5F738ED1AD083DBAD2B63FEA4725785DA915C2ECEF928BC14`
 
 # IMPORTANT BELOW PLEASE DO!!!!
 
