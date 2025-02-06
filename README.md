@@ -63,8 +63,21 @@ Bubbles Notepad allows you to **open and save** the following file types:
 If you encounter any issues, feel free to ping **Bubbles** on Discord! 🚀
 
 ---
+### Bubbles-Notepad EXE
+Bubbles-Notepad Exe](https://github.com/KernFerm/bubbles-notepad/tree/main/Bubbles-Notepad)
 
 ## 🔧 Installation & Running
+
+### Download & Installation
+
+1. Click the Green Button Upper Right Hand Corner:
+- A) Download `ZipFile` to desktop.
+- B) `Extract Zipfile` to desktop.
+- C) Open up the Folder and make sure to read the `readme.md`
+- D) install `python`
+- E) double click the `python3119.bat` and press `Y` to install.
+- F) once done, `python --version` to see if it got installed correctly.
+- G) then double click on the requirements.bat to install the requirements needed to run the code.
 
 ### 📥 Install Dependencies
 
