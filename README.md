@@ -54,6 +54,7 @@ Bubbles Notepad allows you to **open and save** the following file types:
 | **Toggle Dark Mode** | `Click on Theme > Toggle Dark Mode` |
 | **Copy**             | `Ctrl+C` to copy                    |
 | **Paste**            | `Ctrl+V` to paste                   |
+| **New**             | `Ctrl+N` for new page           |
 
 ---
 
