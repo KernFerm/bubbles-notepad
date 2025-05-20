@@ -4,6 +4,8 @@ Bubbles Notepad is a **lightweight, customizable, and user-friendly** notepad ap
 
 ---
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ## ✨ Features
 
 ✅ **Open & Save Files** - Supports `.txt`, `.py`, `.js`, `.bat`, `.ps1`, `.json`, `.html`, `.css`, `.cpp`, `.java`, `.md`, `.xml`, `.yaml`, `.csv`, `.sql`, `.sh`, `.rb`, `.php`, and more!\
